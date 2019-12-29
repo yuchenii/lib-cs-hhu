@@ -1,0 +1,56 @@
+CODE SEGMENT
+ASSUME CS:CODE
+ORG 1000H
+START:JMP L1
+DATA1 DB ?
+DATA2 DB ?
+DATA3 DB 3FH,06H,5BH,4FH,66H,6DH,7DH,07H,7FH,6FH,77H,7CH,39H,5EH,79H,71H
+
+L1: MOV DX,070H    ;接线接070
+    MOV AL,00H
+    OUT DX,AL
+    MOV CX,200
+    LOOP $
+    
+    MOV DX,070H
+    IN AL,DX       ;获取旋钮输入至AL
+    
+    MOV AH,AL
+    AND AL,0FH
+    MOV DATA1,AL   ;低位放DATA1
+    
+    MOV CL,4
+    SHR AH,CL
+    MOV DATA2,AH   ;高位放DATA2
+
+    LEA BX,DATA3   ;将DATA1中的值转换为显示代码
+    MOV AH,0
+    MOV AL,DATA1
+    ADD BX,AX
+    MOV AL,[BX]
+    MOV DATA1,AL
+
+    LEA BX,DATA3   ;将DATA2中的值转换为显示代码
+    MOV AH,0
+    MOV AL,DATA2
+    ADD BX,AX
+    MOV AL,[BX]
+    MOV DATA2,AL
+
+    MOV DX,00DFH   ;显示DATA1至显示器右边第一位
+    MOV AL,90H
+    OUT DX,AL
+    MOV DX,00DEH
+    MOV AL,DATA1
+    OUT DX,AL
+
+    MOV DX,00DFH   ;显示DATA2至显示器右边第二位
+    MOV AL,91H
+    OUT DX,AL
+    MOV DX,00DEH
+    MOV AL,DATA2
+    OUT DX,AL
+    
+    JMP L1
+ CODE ENDS
+ END START

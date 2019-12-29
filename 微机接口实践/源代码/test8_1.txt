@@ -1,0 +1,38 @@
+//顺时针
+CODE SEGMENT
+ASSUME CS:CODE
+START:JMP L
+L:    MOV DX,0063H
+      MOV AL,80H
+      OUT DX,AL
+      
+      MOV DX,0061H
+      MOV AL,00001110B
+      OUT DX,AL
+      MOV CX,0FFFFH
+      LOOP $
+      
+      MOV DX,0061H
+      MOV AL,00001101B
+      OUT DX,AL
+      MOV CX,0FFFFH
+      LOOP $
+      
+      MOV DX,0061H
+      MOV AL,00001011B
+      OUT DX,AL
+      MOV CX,0FFFFH
+      LOOP $
+      
+      MOV DX,0061H
+      MOV AL,00000111B
+      OUT DX,AL
+      MOV CX,0FFFFH
+      LOOP $
+      
+      JMP L
+  CODE ENDS
+  END START
+ 
+
+ 
