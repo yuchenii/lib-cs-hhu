@@ -10,6 +10,9 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 我希望大家也是把这些资料作为学习的快速通道，而不是单纯为了分数的旁门左道。
 
+因项目过大，可能因为网络和github服务器等问题，难以将项目完全下载，这里提供一个可下载单个文件的网站：[DownGit](https://minhaskamal.github.io/DownGit/#/home)<br>
+输入本项目(github.com/Ricky-Chu/lib-cs-hhu)的网址，在后面加上要下载的文件名，即可下载单个文件。
+
 内容
 ------
 1. 课程PPT
