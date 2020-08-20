@@ -2,7 +2,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 =======
 项目转手
 ----
-目前本项目已由[VCode28629](https://github.com/VCode28629)和[RickyChu](https://github.com/Ricky-Chu)共同维护，联系方式分别为71968243@qq.com，qs4869@outlook.com。
+目前本项目已由[VCode28629](https://github.com/VCode28629)和[RickyChu](https://github.com/Ricky-Chu)共同维护，联系方式分别为vcode28629@qq.com，qs4869@outlook.com。
 
 
 前言
@@ -56,7 +56,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 **如您觉得一些资料侵犯了您的权益，请向我发送邮件，过失之处，实在抱歉。**
 
-联系邮箱：71968243@qq.com，qs4869@outlook.com，恕不接受其它联系方式。
+联系邮箱：vcode28629@qq.com，qs4869@outlook.com，恕不接受其它联系方式。
 
 备注
 ------
