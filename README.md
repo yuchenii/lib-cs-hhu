@@ -15,7 +15,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 我希望大家也是把这些资料作为学习的快速通道，而不是单纯为了分数的旁门左道。
 
-**因项目过大，可能因为网络和github服务器等问题，难以将项目完全下载**，这里提供一个可下载单个文件夹的chrome插件：[GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn/related)，下载结束后双击repo中的文件夹即可下载单个文件夹。因此法需要科学上网，条件欠缺的朋友可以自行百度别的方法。
+**因项目过大，可能因为网络和github服务器等问题，难以将项目完全下载**，这里提供一个可下载单个文件夹的chrome插件：[GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn/related)，下载结束后双击repo中的文件夹即可下载单个文件夹。因此法需要科学上网，条件欠缺的朋友可以自行Bing别的方法。
 
 **另外，如果下载速度太慢，可以尝试一下使用码云，具体教程请自行寻找**
 
