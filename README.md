@@ -19,6 +19,8 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 **另外，如果下载速度太慢，可以尝试一下使用码云，具体教程请自行寻找**
 
+本项目许多资料参考了Servon-Lee朋友的repo：[HHU_course](https://github.com/Servon-Lee/HHU_course),欢迎大家一起点个star支持！
+
 内容
 ------
 1. 课程PPT
