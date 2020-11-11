@@ -1,5 +1,9 @@
 lib-cs-hhu（河海大学计算机类课程资料整理）
-=======
+-----
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Ricky-Chu/lib-cs-hhu)  ![GitHub Repo stars](https://img.shields.io/github/stars/Ricky-Chu/lib-cs-hhu?style=flat)  ![GitHub forks](https://img.shields.io/github/forks/Ricky-Chu/lib-cs-hhu?style=flat)  ![GitHub watchers](https://img.shields.io/github/watchers/Ricky-Chu/lib-cs-hhu?style=flat)  
+
+
 项目转手
 ----
 目前本项目已由[VCode28629](https://github.com/VCode28629)和[RickyChu](https://github.com/Ricky-Chu)共同维护，联系方式分别为vcode28629@qq.com，qs4869@outlook.com。
