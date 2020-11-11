@@ -1,7 +1,6 @@
 lib-cs-hhu（河海大学计算机类课程资料整理）
 -----
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Ricky-Chu/lib-cs-hhu)  ![GitHub Repo stars](https://img.shields.io/github/stars/Ricky-Chu/lib-cs-hhu?style=flat)  ![GitHub forks](https://img.shields.io/github/forks/Ricky-Chu/lib-cs-hhu?style=flat)  ![GitHub watchers](https://img.shields.io/github/watchers/Ricky-Chu/lib-cs-hhu?style=flat)  
+![GitHub repo size](https://img.shields.io/github/repo-size/Ricky-Chu/lib-cs-hhu)  ![GitHub Repo stars](https://img.shields.io/github/stars/Ricky-Chu/lib-cs-hhu?style=flat)  ![GitHub forks](https://img.shields.io/github/forks/Ricky-Chu/lib-cs-hhu?style=flat)  ![GitHub watchers](https://img.shields.io/github/watchers/Ricky-Chu/lib-cs-hhu?style=flat)  [![](https://img.shields.io/badge/LeetCode-rickychu-{#00FF00}.svg)](https://leetcode-cn.com/u/rickychu)
 
 
 项目转手
