@@ -143,4 +143,4 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 ## 捐献
 
-本项目为开发者们自愿上传所成，若想捐献本项目，可移至页面最上方的[sponsor](https://github.com/Ricky-Chu/lib-cs-hhu/blob/master/Donate/alipay.jpg)进行捐献。
+本项目为开发者们自愿上传所成，若想捐献本项目，可移至页面最上方的[Sponsor](https://github.com/Ricky-Chu/lib-cs-hhu/blob/master/Donate/alipay.jpg)进行捐献。
