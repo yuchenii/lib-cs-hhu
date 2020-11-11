@@ -140,3 +140,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 "清华大学计算机系课程攻略"传送门：https://github.com/Trinkle23897/thu-cst-cracker
 
 以上排名不分先后
+
+## 捐献
+
+本项目为开发者们自愿上传所成，若想捐献本项目，可移至页面最上方的[sponsor](https://github.com/Ricky-Chu/lib-cs-hhu/blob/master/Donate/alipay.jpg)进行捐献。
