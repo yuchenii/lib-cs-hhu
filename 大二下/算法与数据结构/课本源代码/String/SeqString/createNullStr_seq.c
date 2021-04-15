@@ -1,5 +1,5 @@
 PSeqString createNullStr_seq(int m){
-	PSeqStirng pstr = (PSeqString)malloc(sizeof(struct SeqString));
+	PSeqString pstr = (PSeqString)malloc(sizeof(struct SeqString));
 	if(pstr!=NULL){
 		pstr->c = (char*)malloc(sizeof(char)*m);
 		if(pstr->c){
