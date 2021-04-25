@@ -10,7 +10,7 @@ int insertPre_seq(PSeqList palist,int p,DataType x){
 	}
 	for(q=palist->n-1;q>=p;q--)
 		palist->element[q+1] = palist->element[q];
-	palist->element[q] = x;
+	palist->element[p] = x;
 	palist->n = palist->n+1;
 	return 1;
 }
