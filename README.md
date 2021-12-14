@@ -1,6 +1,6 @@
 lib-cs-hhu（河海大学计算机类课程资料整理）
 -----
-![GitHub repo size](https://img.shields.io/github/repo-size/Ricky-Chu/lib-cs-hhu)  ![GitHub Repo stars](https://img.shields.io/github/stars/Ricky-Chu/lib-cs-hhu?style=flat)  ![GitHub forks](https://img.shields.io/github/forks/Ricky-Chu/lib-cs-hhu?style=flat)  ![GitHub watchers](https://img.shields.io/github/watchers/Ricky-Chu/lib-cs-hhu?style=flat)  [![](https://img.shields.io/badge/LeetCode-rickychu-{#00FF00}.svg)](https://leetcode-cn.com/u/rickychu)
+![GitHub repo size](https://img.shields.io/github/repo-size/yuchenii/lib-cs-hhu)  ![GitHub Repo stars](https://img.shields.io/github/stars/yuchenii/lib-cs-hhu?style=flat)  ![GitHub forks](https://img.shields.io/github/forks/yuchenii/lib-cs-hhu?style=flat)  ![GitHub watchers](https://img.shields.io/github/watchers/yuchenii/lib-cs-hhu?style=flat)  [![](https://img.shields.io/badge/LeetCode-rickychu-{#00FF00}.svg)](https://leetcode-cn.com/u/rickychu)
 
 
 项目转手
@@ -36,18 +36,18 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 
 ## 详细内容
 
-### [大一上](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8A)
+### [大一上](https://github.com/yuchenii/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8A)
 
 * C&C++
 * C&C++上机实践
 * 计算机导论
 
-### [大一下](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B)
+### [大一下](https://github.com/yuchenii/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B)
 
 * Java
 * 大学物理BII
 
-### [大二上](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8A)
+### [大二上](https://github.com/yuchenii/lib-cs-hhu/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8A)
 
 * 概率论与数理统计
 * 离散数学
@@ -55,7 +55,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 * 电路与电子技术基础
 * 电路与电子基础实验
 
-### [大二下](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B)
+### [大二下](https://github.com/yuchenii/lib-cs-hhu/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B)
 
 * Android应用程序开发
 * 程序设计方法
@@ -64,7 +64,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 * 软件开发环境
 * 算法与数据结构
 
-### [大三上](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A)
+### [大三上](https://github.com/yuchenii/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A)
 
 * 编译原理
 * 操作系统
@@ -75,7 +75,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 * 微机原理
 * 微机接口实验
 
-### [大三下](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8B)
+### [大三下](https://github.com/yuchenii/lib-cs-hhu/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8B)
 
 * Linux操作系统与运用
 * 计算机网络
@@ -89,7 +89,7 @@ lib-cs-hhu（河海大学计算机类课程资料整理）
 * 数字图像处理
 * 云计算应用开发实践
 
-### [大四上](https://github.com/Ricky-Chu/lib-cs-hhu/tree/master/%E5%A4%A7%E5%9B%9B%E4%B8%8A)
+### [大四上](https://github.com/yuchenii/lib-cs-hhu/tree/master/%E5%A4%A7%E5%9B%9B%E4%B8%8A)
 
 * 软件需求工程
 * 网络安全
